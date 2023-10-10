@@ -1,0 +1,13 @@
+#using the input function to put in the user information
+name = input("Enter your name: ")
+age =  int(input("Enter your age:"))
+floating_number = float(input("Enter the the number you want:"))
+
+# printing out the message
+message = f"Hello, {name} You are {age} years old and you entered the floating-number you wanted{floating_number: .2f}."
+print(message)
+    
+
+    
+
+    

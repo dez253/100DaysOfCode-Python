@@ -1,0 +1,14 @@
+
+#doing a mathematical calculation using line continuation character on it
+
+x = 50
+
+n = 500
+
+c = x + n *\
+    5
+
+total = c + n * 5\
+    /5
+    
+print(total)

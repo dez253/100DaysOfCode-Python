@@ -1,0 +1,15 @@
+#declaring a variable which is going to be a character 
+student_name = "Alice"
+
+grades  = [65 , 100 , 25]# assigning alice grades into an array
+
+#using function to do the calculation
+def aliceaverage():
+    Totalgrade = sum(grades)# adding all the grades together
+    
+    ave = Totalgrade / 3# calculating the average
+    
+    print("This is alice average grade :",ave)#printing out the statement
+    
+
+aliceaverage()#calling back the function

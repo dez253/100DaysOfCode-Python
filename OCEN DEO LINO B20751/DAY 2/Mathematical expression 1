@@ -1,0 +1,31 @@
+#Calculating the area of three squares and getting the total area of all squares
+#declaring the variables to be used in the calculation
+
+#Area for the first triangle
+Length1 = 5
+width1  = 5
+
+ans1 = 5 + 5
+
+print(ans1)
+
+#area for the second triangle
+Length1 = 10
+Length1 = 10
+
+ans2 = 10 + 10
+print(ans2)
+
+#area for the third triangle
+Length1 = 20
+Length1 = 20
+
+ans3 = 20 + 20
+
+print(ans3)
+
+#total area of all three triangle
+
+totalarea = {ans1 + ans2+
+              ans3}
+print(totalarea)

@@ -1,0 +1,13 @@
+#Create variables
+my_int = 50
+my_float = 3.14
+my_string = "Hello, World"
+my_list = [1, 2, 3, 4, 5]
+my_tuple = {"name": "Dorothy", "age": 21, "city": "Kigali" }
+
+#print variables
+print("my_int:", my_int, "Type:", type(my_int))
+print("my_float:",my_float,"Type:", type(my_float))
+print("my_string:",my_string,"Type:", type(my_string))
+print("my_list:",my_list,"Type:", type(my_list))
+print("my_tuple:",my_tuple,"Type:", type(my_tuple))
