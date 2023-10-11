@@ -1,0 +1,21 @@
+#main.py
+import calcu
+# performing arithmetic operations using the calcu
+num1 = 10
+num2 = 5
+
+#addition
+result_add = calculator.add(num1, num2)
+print(f"{num1} + {num2}= {result_add}")
+
+#subtraction
+result_sub = calculator.subtract(num1, num2)
+print(f"{num1} - {num2} = {result_sub}")
+
+#multiplication
+result_mul = calculator.multiply(num1, num2)
+print|(f"{num1} * {num2} = {result_mul}")
+
+#Divison
+result_div = calculator.divide(num1, num2)
+print(f"{num1} / {num2} = {result_div}")
